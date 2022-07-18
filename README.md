@@ -1,6 +1,6 @@
 # Olá mundo! Sou o Felipe ✌
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/HFYF4UIABI7SF1)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5513988017905)
 
 <!-- Stats Card -->
 <div>
