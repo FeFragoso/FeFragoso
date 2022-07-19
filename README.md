@@ -4,6 +4,6 @@
 
 <!-- Stats Card -->
 <div align='center'>
-  <img height='200em' src='https://github-readme-stats.vercel.app/api?username=fefragoso&locale=&show_icons=true&theme=dark&count_private=true'/>
-  <img height='200em' src='https://github-readme-stats.vercel.app/api/top-langs?username=fefragoso&layout=compact&theme=dark'/>
+  <img width='auto' src='https://github-readme-stats.vercel.app/api?username=fefragoso&locale=&show_icons=true&theme=dark&count_private=true'/>
+  <img width='auto' src='https://github-readme-stats.vercel.app/api/top-langs?username=fefragoso&layout=compact&theme=dark'/>
 </div>
